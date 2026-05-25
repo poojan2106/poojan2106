@@ -42,8 +42,3 @@ Odoo Developer & Python Backend Engineer based in Ahmedabad, India.
 
 - 📧 poojan210699@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/poojanpatel21)
-- 🌍 Open to remote freelance & contract work globally
-
----
-
-*Available for Odoo customisation, ERP implementation, and Python backend projects.*
